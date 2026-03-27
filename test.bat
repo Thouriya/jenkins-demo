@@ -4,3 +4,4 @@ echo Test OK
 echo Deploy simulé
 
 echo Nouveau build déclenché automatiquement 
+echo "Test pipeline automatique"
